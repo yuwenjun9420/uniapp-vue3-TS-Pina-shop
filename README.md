@@ -6,7 +6,7 @@ uni-app 开发的微信小程序-小兔鲜儿电商项目
 当前仓库是 uni-app 开发的微信小程序端，通过条件编译能兼容 H5 端 和 App 端。
 
 # 在线体验
-![image](https://github.com/yuwenjun9420/uniapp-vue3-TS-Pina-shop/blob/master/readme/image/orpR85Z1uO0SFsTvCz_MwOZiEh74.jpg)
+ ![Image text](https://github.com/yuwenjun9420/uniapp-vue3-TS-Pina-shop/blob/master/readme/image/orpR85Z1uO0SFsTvCz_MwOZiEh74.jpg)
 
 # 技术栈
 前端框架:  uni-app (Vue3 + TS) <br>
