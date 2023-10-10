@@ -12,10 +12,7 @@ uni-app 开发的微信小程序-小兔鲜儿电商项目
 前端框架:  uni-app (Vue3 + TS) <br>
 状态管理： pinia <br>
 组件库： uni-ui <br>
-
 項目打包：vite
-
-测试123
 
 # 项目模块
 * 首页模块
